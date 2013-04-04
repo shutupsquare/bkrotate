@@ -42,7 +42,7 @@ conf={
 'retention':60,
 'alertDiskUsage':85, #version 0.4 or above only. percentage of disk that can be used before alert is raised. Must be an int eg. 85
 'email_from':"bkrotate@lste.local",
-'email_to':"s.martin@cmyk-digital.co.uk",
+'email_to':"stemartincouk@gmail.co.uk",
 'smtp_server':"127.0.0.1",
 'send_notifications':1,
 'debug':0, # for debugging when errors occur with operation can be set integer 1 or 0,
